@@ -17,3 +17,9 @@ W3schools (list of tags)
 
 ## Licenses
 Mit License
+
+## Website Images
+![Alt text](<assets/README imgs/Screenshot 2024-01-26 112702.png>)![Alt text](<assets/README imgs/Screenshot 2024-01-26 112720.png>)
+
+## Deployed
+https://cotyv.github.io/Horiseon-Code-Refractor/
